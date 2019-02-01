@@ -1,4 +1,6 @@
-
+/*
+    This is the main driver function ,which executes everything
+*/
 /*
 1.	WHAT IS NEW IN THIS VERSION:
 2. GRAPHICS INTERFACE  TO SEE NOTES
