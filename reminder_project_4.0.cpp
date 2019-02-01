@@ -1,8 +1,7 @@
 /*
     This is the main driver function ,which executes everything
-    Comment added the second time 
-*/
-/*
+    This whole project ,adopts the procedural programming
+
 1.	WHAT IS NEW IN THIS VERSION:
 2. GRAPHICS INTERFACE  TO SEE NOTES
 3. delete all past notes(reminder)
