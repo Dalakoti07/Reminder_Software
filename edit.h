@@ -2,9 +2,9 @@
 #include<stdlib.h>
 #include<windows.h>
 #include<string.h>
+/*This program open a notepad and lets u edit the reminder*/
 edit(int x)
 {
-    //char file[]=create_name(x);
     ifstream ptr;
     ptr.open(create_name(x),ios::in);
         if(ptr==NULL)

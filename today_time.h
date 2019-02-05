@@ -32,6 +32,4 @@ get_today_date()
     ptr.open("todays_time.txt",ios::in);
 
         ptr.getline(date,20);
-
-
 }

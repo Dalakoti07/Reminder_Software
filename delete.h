@@ -1,13 +1,11 @@
 #ifndef DELETE
 #define DELETE
 #include<fstream>
-//#include<stdio.h>
 #include"see_all.h"
 #include"atoi.h"
 #include <cstdio>
 
 #include<iostream>
-//#include<stdlib.h>
 int del;
 extern int no_of_files;       // x in main() function........
 extern int nomen;
@@ -19,24 +17,6 @@ update_no_of_files_when_file_deleted()
                 savior<<no_of_files;
 				savior.close();
     }
-/*char* del_file_name(int g)
-{
-
-    char rem[10]="rem";
-    char ch[5];
-    //update_count();
-    strcat(rem,atoi(g,ch));
-    cout<<rem<<endl;
-    char txt[]=".txt";
-    strcat(rem,txt);
-    cout<<rem<<endl;
-    return rem;
-
-}
-UNABLE TO GET PASS THE STRING AND LET THE CALLED FUNCTION CARRYOUT DELETION
-
-
-*/
 
 
 what_to_delete()
@@ -53,18 +33,12 @@ what_to_delete()
     }
 else{cout<<"\n\nOkay good which rem u want to please write its number: ";}
     cin>>del;
-    //char *txt;
-    //txt=del_file_name(del);
     char rem[10]="rem";
     char Count[5];
-    //update_count();
     strcat(rem,atoi(del,Count));
-    //cout<<rem<<endl;
     char txt[]=".txt";
     strcat(rem,txt);
-    //cout<<rem<<endl;
 
-    //cout<<*txt;
     if(remove(rem)==0)
     {
         cout<<"Remove successful \n";

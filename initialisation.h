@@ -11,7 +11,6 @@ void initial()
     ptr.open("numbers_of_files.txt",ios::in);
     if(ptr==NULL)
     {
-        //cout<<"not available";
         ofstream abc;
         abc.open("numbers_of_files.txt");
         abc<<0;

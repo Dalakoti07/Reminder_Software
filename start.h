@@ -1,6 +1,6 @@
 
 #include<fstream>
-//#include"introduction.cpp"
+/*This function is runned for the first time when ,app is launched for the first time in the present working directory*/
 start()
 {
     ifstream ptr;

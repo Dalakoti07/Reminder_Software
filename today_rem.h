@@ -6,11 +6,8 @@
 using namespace std;
 #include<fstream>
 #include<string.h>
-
-
-
-
-today_rem(int y)            // y is the name of the last nomen, call this function from main .cpp
+/*This tells todays reminder*/
+today_rem(int y)            // y is the name of the last number given to the last made reminder, call this function from main .cpp
 {
     ifstream ptr;
     int count=0;

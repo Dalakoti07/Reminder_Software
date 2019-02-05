@@ -8,12 +8,6 @@ using namespace std;
 INTRO()
 {
     char ch[5];
-    //initwindow(640,480,"Reminder 3.0",-8,-30,false,false);
-    /* INITWINDOW CAN TAKE 7 ARGUMENTS 6TH ARGUMENT IS ON HIGH QUALITY GRAPHICS IF ITS TRUE (NOW ITS FALSE) AND IF 7TH ARGUMENT
-        IS TRUE IT MEANS U CAN CLASE THE SCREN BY CLOSE BAR ON WINDOWS,IF ITS FALSE IT MEANS U CAN'T
-    */
-    //int gd=DETECT,gm;
-    //initgraph (&gd,&gm,"");
     initwindow(800,600,"Reminder 4.0");
     setbkcolor(WHITE);
     cleardevice();

@@ -3,9 +3,9 @@
 #include<stdlib.h>
 
 /*
-        THEME SETTING- white black(F0),white green (F2)(default),white purple(F5),black green(02),red black(40),aqua black(30)
+THEME SETTING- white black(F0),white green (F2)(default),white purple(F5),black green(02),red black(40),aqua black(30)
 COLOR MENU
-
+This allows you to change the theme of the reminder app
 */
 
 set_theme()

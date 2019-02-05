@@ -1,7 +1,7 @@
 #ifndef SEE_ALL
 #define SEE_ALL
 
-
+/*This allows you to see the existing reminders*/
 #include<iostream>
 using namespace std;
 #include"atoi.h"
@@ -25,7 +25,6 @@ using namespace std;
 see_list(int y)
 {
     system("cls");
-    //cout<<y;
 
     ifstream ptr;
     char str;

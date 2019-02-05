@@ -26,13 +26,12 @@
 //#include"beep.cpp"
 using namespace std;
 int no_of_files;  //keep record of number of files
-int nomen;  //do nomenclature of reminder by adding 1 to no data in nomen integer that we get from nomenclature file and reading loop goes until this variable.....
+int nomen;  
 char date[12];              // today's day
 
 int main()
 {
     music();
-//    beep();
     set_theme();
     today_date();
     get_today_date();

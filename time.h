@@ -11,9 +11,4 @@ today_time()
     ptr<<stime.wDay<<":"<<stime.wMonth<<":"<<stime.wYear<<endl;
     ptr.close();
     return 0;
-
-}
-main()
-{
-
 }

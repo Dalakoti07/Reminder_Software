@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 #include<stdio.h>
-daily_stuff(int y)                                  // THROW NOMEN AS AN ARGUMENT
+/*This header file give the facility to make a habit, by entering that habit in all the consecutive reminder made*/
+daily_stuff(int y)                                 
 {
     system("cls");
     fflush(stdin);

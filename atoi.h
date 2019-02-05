@@ -1,16 +1,15 @@
 #ifndef ATOI
 #define ATOI
-
+/*include guards have been used to avoid the redeclaration of the header files*/
 #include<string.h>
 #include<iostream>
-//#include<stdio.h>
 using namespace std;
 
 char *Reverse(char []);
-//char *atoi(int,char []);
 
 char *Reverse(char s[])
 {
+    /*this function reverses the string and returned the reversed string*/
     char *p=s;
     char cha;
     for(int i=0,j=strlen(s)-1;i<j;i++,j--)
@@ -24,6 +23,7 @@ char *Reverse(char s[])
 
 char *atoi(int x,char ch[])
 {
+    /*This function convert integer to character array (according to definition it should have been )  */
     char *p=ch;
     int i=0;
     do
@@ -38,4 +38,4 @@ char *atoi(int x,char ch[])
 }
 
 
-#endif // ATOI
+#endif

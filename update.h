@@ -1,3 +1,4 @@
+/*These function update the count of files and content in respective txt files*/
 update_no_of_files()
         {
             ofstream savior1;
