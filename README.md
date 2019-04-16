@@ -1,9 +1,37 @@
 #Reminder-Beautiful CLI
-
+<br>
+<b>Introductions<b>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/intro.PNG"/>
+</p>
+<h3>Welcome</h3>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/one.PNG"/>
+</p>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/two.PNG"/>
+</p>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/three.PNG"/>
+</p>
+<h3>See the reminders</h3>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/four.PNG"/>
+</p>
+<h3>Edit the reminders</h3>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/five.PNG"/>
+</p>
+<h3>See todays Reminders</h3>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/six.PNG"/>
+</p>
+<h3>Theme change</h3>
+<p align="center">
+<img src="https://github.com/Dalakoti07/Reminder_Software/blob/master/screenshots/oneGif.gif"/>
+</p>
 What it does is reminds you about your daily day to day tasks, offering the features
 like add reminder ,delete the reminder and edit it.
-
-It targets all those who want to maximise their productivity.
 
 It saves file in same directory in which you run the app- so better create a seprate folder.
 
