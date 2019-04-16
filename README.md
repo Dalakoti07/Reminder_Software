@@ -1,4 +1,4 @@
-This is a reminder app 1.0
+#Reminder-Beautiful CLI
 
 What it does is reminds you about your daily day to day tasks, offering the features
 like add reminder ,delete the reminder and edit it.
@@ -7,10 +7,9 @@ It targets all those who want to maximise their productivity.
 
 It saves file in same directory in which you run the app- so better create a seprate folder.
 
-Though not being a proprietary software, it can be subjected to some unkown error (10 percent chances for error).
-There is one second lag in the opening of app because of sound if you want to remove it you can.
+Though not being a proprietary software, it can be subjected to some unkown error (10 percent chances for error), so please comment if a bug or error is found ,since I am new to software development a pull request would be approved immediately 
 
-If you are interested to fix the problem ask for source code and fix it by your own conscience.
+There is one second lag in the opening of app because of sound if you want to remove it ,or threading can be used
 
 To auto start the app follow the following instructions:
 
