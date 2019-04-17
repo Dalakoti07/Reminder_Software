@@ -1,4 +1,4 @@
-#Reminder-Beautiful CLI
+# Reminder-Beautiful CLI
 <br>
 <b>Introductions<b>
 <p align="center">
